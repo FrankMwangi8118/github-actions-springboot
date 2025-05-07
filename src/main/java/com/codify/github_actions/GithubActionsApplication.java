@@ -9,6 +9,6 @@ public class GithubActionsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GithubActionsApplication.class, args);
 
-		System.out.println("mwas......mwangi");
+		System.out.println("mwas......mwangi....mwas");
 	}
 }
